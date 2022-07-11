@@ -10,4 +10,5 @@ Goal: A simple, working web application - your own blog
 	* django
 
 * Part 2 - Your first project:
-	* 
+	* blog webpage
+	* deploying on pythonanywhere
